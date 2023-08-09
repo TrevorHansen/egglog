@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["ActionParser","FactParser","ProgramParser"],"trait":["__ToTriple"]};
